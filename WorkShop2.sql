@@ -1,4 +1,5 @@
-Hiç satış yapamayan personel var mı? Kimlerdir?
+HİÇ SATIŞ YAPAMAYAN PERSONEL VAR MI? KİMLERDİR?
+
 SELECT * FROM Employees e 
 LEFT JOIN Orders o 
 ON e.EmployeeID = o.EmployeeID 
