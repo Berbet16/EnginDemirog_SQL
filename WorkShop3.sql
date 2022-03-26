@@ -1,5 +1,4 @@
 HANGİ ÜRÜNDEN KAÇ TANE SATMIŞIZ?
-HANGİ KATEGORİDEN KAÇ TANE SATMIŞIZ?
 
 SELECT p.ProductName , COUNT(*) as ADET 
 FROM Products p 
